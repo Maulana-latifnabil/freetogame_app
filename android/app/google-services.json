@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616493922427",
+    "project_id": "freetogame-2024",
+    "storage_bucket": "freetogame-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616493922427:android:27dedd0c6b290c08050ade",
+        "android_client_info": {
+          "package_name": "com.example.freetogame_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYhgp4nxK25uENw3cpyR6O5fmPsrHsCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

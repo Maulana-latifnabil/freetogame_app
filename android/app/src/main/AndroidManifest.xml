@@ -4,7 +4,8 @@
     <application
         android:networkSecurityConfig="@xml/network_security_config"
         android:label="freetogame_app"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/splash"
+        android:name="${applicationName}">
         <activity
             android:name=".MainActivity"
             android:exported="true"
